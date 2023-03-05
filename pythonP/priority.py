@@ -1,0 +1,5 @@
+# print(4/4)
+# print(8.0/3)
+# print(1/2)
+print(16//5)
+print(16.0//4)
