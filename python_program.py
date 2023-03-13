@@ -13,3 +13,4 @@ for i in str:
     if ch!=0:
         c = c +1
     print(c)
+    
