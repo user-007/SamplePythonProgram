@@ -12,3 +12,12 @@ def hello_world():
 
 if __name__ == '__main__':
     app.run()
+
+
+@app.route("/<name>")
+def great(name):
+    return f"Hello {name}"
+
+
+if __name__ == "__main__":
+    app.run(debug=True)
