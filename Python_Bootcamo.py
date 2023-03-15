@@ -1,0 +1,1 @@
+my_array  = np.array([1.1, 9.2 ])
